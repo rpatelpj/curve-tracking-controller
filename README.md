@@ -1,2 +1,3 @@
-# curve-tracking-controller
-Demonstration of curve tracking capability of mobile robot.
+# path-following-controller
+
+Design of path following controller for mobile robot.
